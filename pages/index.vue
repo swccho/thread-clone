@@ -1,6 +1,6 @@
 <template>
   <MainLayout>
-    <div id="IndexPage" class="w-full overflow-auto">
+    <div id="IndexPage" class="w-full overflow-auto no-scrollbar">
       <div class="mx-auto max-w-[500px] overflow-hidden">
         <div id="Posts" class="px-4 max-w-[600px] mx-auto">
           <div v-if="isPosts"  v-for="post in posts" :key="post">
