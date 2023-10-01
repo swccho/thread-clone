@@ -68,3 +68,6 @@ npm i @nuxtjs/supabse @nuxtjs/tailwindcss @pinia/nuxt @prisma/clint @vite-pwa/nu
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+## Supabase Info
+password: **jf46XAxto5oV0Hon**
